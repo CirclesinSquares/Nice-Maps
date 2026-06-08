@@ -1,0 +1,9 @@
+meta:
+  version: 1.0.0
+name: NiceMaps
+author: CirclesinSquares
+version: 3.0.0
+dependencies:
+  maploader: ^1.1.0
+type: plugin
+display-name: NiceMaps
